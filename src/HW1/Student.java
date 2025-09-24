@@ -1,4 +1,4 @@
-package com.mst.encapsulation;
+package HW1;
 
 public class Student {
     int studentId;
